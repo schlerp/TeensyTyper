@@ -1,0 +1,6 @@
+TeensyTyper is a Arduino based hardware dongle that lets you send sets of keystrokes via a simple two button interface.
+
+This project requires specific hardware.
+
+Requires:
+  Teensy 2.0 (or compatible) - http://www.pjrc.com/teensy/
